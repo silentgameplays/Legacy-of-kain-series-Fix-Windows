@@ -1,0 +1,43 @@
+; id = file (1-10 - original tracks in music.dat, 11-20 - new; max string length = 30)
+[tracks]
+; Drowned Abbey
+1=
+; Bosses
+2=
+; Human Citadel
+3=
+; Razielim Clan
+4=
+; Sunlight Glyph
+5=
+; Oracle's Cave
+6=
+; Melchiahim Clan
+7=
+; Dumah's fortress
+8=
+; Underworld
+9=
+; Silenced Cathedral
+10=
+
+; Melchiah
+11=music\Melchiah.ogg
+; Zephon
+12=music\Zephon.ogg
+; Rahab
+13=music\Rahab.ogg
+; Dumah
+14=music\Dumah.ogg
+; Stone Glyph
+15=music\Stone Glyph.ogg
+; Sound Glyph
+16=music\Sound Glyph.ogg
+; Water Glyph
+17=music\Water Glyph.ogg
+; Fire Glyph
+18=music\Turel Clan.ogg
+; Pillars
+19=music\MainTitleDef.ogg
+; Last battle with Kain
+20=music\KainBattle.ogg
